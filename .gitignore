@@ -1,0 +1,6 @@
+dados_acidentes/
+dados_multas/
+*.zip
+*csv
+acidentes_pos_processamento.csv
+multas_pos_processamento.csv
